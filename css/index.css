@@ -4,11 +4,11 @@ body {
   background-repeat:no-repeat;
   */
   
-    font-family: 'Belleza-Regular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 }
 
 h1 {
-    font-family: 'Belleza-Regular', sans-serif;
+    font-family: 'Montserrat', sans-serif;
 
    }
 
@@ -28,14 +28,6 @@ h2 {
     font-weight: 200;
     text-align: left;
 
-   }
-
-   h5 {
-    font-family:'Belleza-Regular', sans-serif; 
-    font-size: 16px;
-    font-weight: regular;
-    text-align: left;
-  
    }
 
    .flex-container {
