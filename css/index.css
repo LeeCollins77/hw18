@@ -4,11 +4,11 @@ body {
   background-repeat:no-repeat;
   */
   
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Belleza-Regular', sans-serif;
 }
 
 h1 {
-    font-family: 'Montserrat', sans-serif;
+    font-family: 'Belleza-Regular', sans-serif;
 
    }
 
@@ -28,6 +28,14 @@ h2 {
     font-weight: 200;
     text-align: left;
 
+   }
+
+   h5 {
+    font-family:'Belleza-Regular', sans-serif; 
+    font-size: 16px;
+    font-weight: regular;
+    text-align: left;
+  
    }
 
    .flex-container {
@@ -214,7 +222,7 @@ h2 {
 
   @font-face {
     font-family: 'Belleza-Regular';
-    src: url(../fonts/Vogue.ttf) format('truetype');
+    src: url(../fonts/Belleza-Regular.ttf) format('truetype');
   }
 
   @font-face {
