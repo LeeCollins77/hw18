@@ -151,6 +151,17 @@ li {
 
     }
 
+
+    @font-face {
+        font-family: 'Belleza-Regular';
+        src: url(../fonts/Vogue.ttf) format('truetype');
+      }
+    
+      @font-face {
+        font-family: 'Vogue';
+        src: url(../fonts/Vogue.ttf) format('truetype');
+      }
+
       /* per holly video another way of typing in
       the padding space in the long version would
       be the example of padding below. The above
